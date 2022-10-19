@@ -1,2 +1,2 @@
-# Arumugam-M
+# simple calculator
 Simple calculator in python
